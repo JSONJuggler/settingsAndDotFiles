@@ -1,0 +1,31 @@
+{
+    "editor.minimap.enabled": false,
+    "diffEditor.renderSideBySide": true,
+    "prettier.arrowParens": "avoid",
+    "prettier.trailingComma": "none",
+    "editor.renderWhitespace": "all",
+    "workbench.activityBar.visible": true,
+    "customizeUI.stylesheet": {
+        ".editor-actions": "display: none !important;",
+    },
+    "editor.formatOnSave": true,
+    "csharpfixformat.style.braces.onSameLine": false,
+    "csharpfixformat.style.spaces.beforeParenthesis": false,
+    "window.zoomLevel": 0,
+    "files.exclude": {
+        "**/*meta": true
+    },
+    "csharp.referencesCodeLens.enabled": false,
+    "vim.insertModeKeyBindings": [],
+    "vim.insertModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "j",
+                "k"
+            ],
+            "after": [
+                "<esc>"
+            ]
+        }
+    ],
+}
